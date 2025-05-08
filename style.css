@@ -6,7 +6,7 @@
 }
 
 body{
-    background-image: url(img/fondo2.jpg);
+    background-image: fondo2.jpg;
     background-repeat: no-repeat, no-repeat;
     background-position:bottom center;
     background-size: cover;
@@ -52,7 +52,7 @@ tr,td{
 
 
 #cabecera{
-    background-image: url(img/fondocabecera.jpg);
+    background-image:img/fondocabecera.jpg;
     background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
